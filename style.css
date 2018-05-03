@@ -1,0 +1,69 @@
+body{
+  width:96%;
+  margin: 0 auto;
+background-color: rgba(104, 99, 106, 0.54);
+}
+header h1{
+  text-align: center;
+  text-shadow: 2px 2px 2px rgba(14, 12, 13,0.3)
+}
+header ul{
+  display: flex;
+  flex-direction: row;
+
+}
+header li,aside li{
+  list-style-type:none;
+
+}
+header a{
+  width: 15em;
+  text-decoration: none;
+  display: inline-block;
+  line-height: 5;
+  text-align: center;
+  color: white;
+    background-color: rgb(83, 76, 237);
+
+}
+
+header a:hover{
+background-color: rgb(77, 98, 233);
+}
+header a:active{
+  color: white;
+  background-color:rgb(10, 15, 12);
+}
+aside{
+  width: 230px;
+}
+aside ul{
+  padding-left:5px;
+}
+main{
+  width: 1210px;
+  display: flex;
+  flex-flow:wrap;
+}
+main div{
+  margin: 15px;
+  width:550px;
+  height: 275px;
+  background-color: rgb(213, 213, 213);
+  border-radius: 10px;
+  padding: 5px;
+}
+main p{
+  margin-left: 16px;
+  text-indent:2em;
+  line-height: 1.5em;
+}
+main h3{
+  padding-left:5px;
+}
+main li{
+  line-height: 3;
+}
+footer h6{
+    text-align: center;
+  }
