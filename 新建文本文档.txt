@@ -1,2 +1,10 @@
 master--first clone
   continue...
+
+
+
+
+
+
+
+when create new branch felix, and felix go on do something..., the same time, master, wring right here and waiting for merging felix in the future...
