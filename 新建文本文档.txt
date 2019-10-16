@@ -1,6 +1,0 @@
-master--first clone
-when create new branch felix, and felix go on do something..., the same time, master, wring right here and waiting for merging felix in the future...
-  mutate by felix here
-  new add by felix other place, just for testing
-
-after felix checkout to master and merge felix, now go back to felix here, add new lines
